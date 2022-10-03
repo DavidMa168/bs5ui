@@ -14,7 +14,18 @@
     width: 50px !important;
 }
 
+.h-80px {
+    height: 80px !important;
+}
+
 .fs-7 {
     font-size: 1em * 0.8 !important;
 }
 
+.text-gray-700 {
+    color: $gray-700 !important;
+}
+
+.transform-rotate-180 {
+    rotate: 180deg;
+}
